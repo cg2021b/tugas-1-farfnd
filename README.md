@@ -1,7 +1,11 @@
 # tugas-1-farfnd
-Nama: Farhan Arifandi
-
+Nama: Farhan Arifandi<br>
 NRP: 05111940000061
+
+### Github Pages
+- [Tugas 1: Menggambar benda dengan WebGL](https://cg2021b.github.io/tugas-1-farfnd/)
+- [Tugas 2: Mencoba ThreeJS](https://cg2021b.github.io/tugas-1-farfnd/mencoba%20three.js/)
+- [Tugas 3: Aplikasi ThreeJS Interaktif](https://cg2021b.github.io/tugas-1-farfnd/Tugas%203/)
 
 ## Nama Benda
 Benda berawalan B/G/L yang saya foto adalah **gelas**.
