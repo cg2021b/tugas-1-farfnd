@@ -5,7 +5,10 @@ NRP: 05111940000061
 ### Github Pages
 - [Tugas 1: Menggambar benda dengan WebGL](https://cg2021b.github.io/tugas-1-farfnd/)
 - [Tugas 2: Mencoba ThreeJS](https://cg2021b.github.io/tugas-1-farfnd/mencoba%20three.js/)
-- [Tugas 3: Aplikasi ThreeJS Interaktif](https://cg2021b.github.io/tugas-1-farfnd/Tugas%203/)
+- [Tugas 3: Aplikasi ThreeJS Interaktif](https://cg2021b.github.io/tugas-1-farfnd/task-3-grafkomb/)
+- Tugas 4
+  - [Control, Texture, Panorama, Fog, Realistic Reflection](https://cg2021b.github.io/tugas-1-farfnd/task-4-grafkomb/1.html)
+  - [Shadow & Loading Model](https://cg2021b.github.io/tugas-1-farfnd/task-4-grafkomb/2.html)
 
 ## Nama Benda
 Benda berawalan B/G/L yang saya foto adalah **gelas**.
